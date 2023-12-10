@@ -1,0 +1,50 @@
+[
+    [
+        {
+            "name" : "Dallas, Texas Skyline 1970",
+            "src" : "Dallas-Texas-Skyline-1970s.jpg",
+            "credit" : "WBAP-TV/NBC5/KXAS-TV/University of North Texas Libraries/The Portal to Texas History"
+        },
+        {
+            "name" : "Dallas, Texas Skyline 2020",
+            "src" : "Dallas-Texas-Skyline-2020.jpg",
+            "credit" : "Art Wager/Getty"
+        }
+    ],
+    [
+        {
+            "name" : "Houston, Texas Skyline 1970",
+            "src" : "Houston-Texas-Skyline-1970s.jpg",
+            "credit" : "WBAP-TV/NBC5/KXAS-TV/University of North Texas Libraries/The Portal to Texas History"
+        },
+        {
+            "name" : "Houston, Texas Skyline 2019",
+            "src" : "Houston-Texas-Skyline-2019.jpg",
+            "credit" : "Jon Bilous/Alamy"
+        }
+    ],
+    [
+        {
+            "name" : "Austin, Texas Skyline 1982",
+            "src" : "Austin-Texas-Skyline-1982.jpg",
+            "credit" : "Scott Newton;"
+        },
+        {
+            "name" : "Austin, Texas Skyline 2020",
+            "src" : "Austin-Texas-Skyline-2020.jpg",
+            "credit" : "Al Argueta/Alamy"
+        }
+    ],
+    [
+        {
+            "name" : "San Antonio, Texas Skyline 1970",
+            "src" : "San-Antonio-Texas-Skyline-1970s.jpg",
+            "credit" : "WBAP-TV/NBC5/KXAS-TV/University of North Texas Libraries/The Portal to Texas History"
+        },
+        {
+            "name" : "San Antonio, Texas Skyline 2021",
+            "src" : "San-Antonio-Texas-Skyline-2021.jpg",
+            "credit" : "Joe Sohm/Visions of America/Getty"
+        }
+    ]
+]

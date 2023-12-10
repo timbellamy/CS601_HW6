@@ -1,15 +1,20 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+<div class="header">
+  <h1>Texas Skylines</h1>
+  <image-frame/>
+  <citation/>
+</div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import ImageFrame from "@/components/ImageFrame.vue";
+import Citation from "@/components/citation.vue";
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    Citation,
+    ImageFrame
   }
 }
 </script>
@@ -21,6 +26,14 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  justify-items: center;
+
+}
+#app-container{
+  max-width: 100%;
+  max-height: 100%;
 }
 </style>
